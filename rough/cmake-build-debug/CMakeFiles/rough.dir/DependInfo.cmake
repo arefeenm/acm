@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arefeenm/repos/personal/acm/rough/rough_101.cpp" "/home/arefeenm/repos/personal/acm/rough/cmake-build-debug/CMakeFiles/rough.dir/rough_101.cpp.o"
+  "/home/arefeenm/repos/personal/acm/rough/arrays/arrays.cpp" "/home/arefeenm/repos/personal/acm/rough/cmake-build-debug/CMakeFiles/rough.dir/arrays/arrays.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

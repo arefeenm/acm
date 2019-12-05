@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/rough.dir/rough_101.cpp.o  -o rough 
+/usr/bin/c++  -g   CMakeFiles/rough.dir/arrays/arrays.cpp.o  -o rough 

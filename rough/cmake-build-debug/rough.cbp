@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/arefeenm/repos/personal/acm/rough/rough_101.cpp">
+		<Unit filename="/home/arefeenm/repos/personal/acm/rough/arrays/arrays.cpp">
 			<Option target="rough"/>
 		</Unit>
 		<Unit filename="/home/arefeenm/repos/personal/acm/rough/CMakeLists.txt">

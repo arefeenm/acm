@@ -57,27 +57,27 @@ include CMakeFiles/rough.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/rough.dir/flags.make
 
-CMakeFiles/rough.dir/rough_101.cpp.o: CMakeFiles/rough.dir/flags.make
-CMakeFiles/rough.dir/rough_101.cpp.o: ../rough_101.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arefeenm/repos/personal/acm/rough/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/rough.dir/rough_101.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/rough.dir/rough_101.cpp.o -c /home/arefeenm/repos/personal/acm/rough/rough_101.cpp
+CMakeFiles/rough.dir/arrays/arrays.cpp.o: CMakeFiles/rough.dir/flags.make
+CMakeFiles/rough.dir/arrays/arrays.cpp.o: ../arrays/arrays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arefeenm/repos/personal/acm/rough/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/rough.dir/arrays/arrays.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/rough.dir/arrays/arrays.cpp.o -c /home/arefeenm/repos/personal/acm/rough/arrays/arrays.cpp
 
-CMakeFiles/rough.dir/rough_101.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rough.dir/rough_101.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arefeenm/repos/personal/acm/rough/rough_101.cpp > CMakeFiles/rough.dir/rough_101.cpp.i
+CMakeFiles/rough.dir/arrays/arrays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rough.dir/arrays/arrays.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arefeenm/repos/personal/acm/rough/arrays/arrays.cpp > CMakeFiles/rough.dir/arrays/arrays.cpp.i
 
-CMakeFiles/rough.dir/rough_101.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rough.dir/rough_101.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arefeenm/repos/personal/acm/rough/rough_101.cpp -o CMakeFiles/rough.dir/rough_101.cpp.s
+CMakeFiles/rough.dir/arrays/arrays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rough.dir/arrays/arrays.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arefeenm/repos/personal/acm/rough/arrays/arrays.cpp -o CMakeFiles/rough.dir/arrays/arrays.cpp.s
 
 # Object files for target rough
 rough_OBJECTS = \
-"CMakeFiles/rough.dir/rough_101.cpp.o"
+"CMakeFiles/rough.dir/arrays/arrays.cpp.o"
 
 # External object files for target rough
 rough_EXTERNAL_OBJECTS =
 
-rough: CMakeFiles/rough.dir/rough_101.cpp.o
+rough: CMakeFiles/rough.dir/arrays/arrays.cpp.o
 rough: CMakeFiles/rough.dir/build.make
 rough: CMakeFiles/rough.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arefeenm/repos/personal/acm/rough/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable rough"

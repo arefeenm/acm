@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/arefeenm/repos/personal/acm/rough/rough_101.cpp
+/home/arefeenm/repos/personal/acm/rough/arrays/arrays.cpp
 cstdio
 -
 iostream

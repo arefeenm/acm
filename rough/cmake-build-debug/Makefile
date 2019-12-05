@@ -123,32 +123,32 @@ rough/fast:
 	$(MAKE) -f CMakeFiles/rough.dir/build.make CMakeFiles/rough.dir/build
 .PHONY : rough/fast
 
-rough_101.o: rough_101.cpp.o
+arrays/arrays.o: arrays/arrays.cpp.o
 
-.PHONY : rough_101.o
+.PHONY : arrays/arrays.o
 
 # target to build an object file
-rough_101.cpp.o:
-	$(MAKE) -f CMakeFiles/rough.dir/build.make CMakeFiles/rough.dir/rough_101.cpp.o
-.PHONY : rough_101.cpp.o
+arrays/arrays.cpp.o:
+	$(MAKE) -f CMakeFiles/rough.dir/build.make CMakeFiles/rough.dir/arrays/arrays.cpp.o
+.PHONY : arrays/arrays.cpp.o
 
-rough_101.i: rough_101.cpp.i
+arrays/arrays.i: arrays/arrays.cpp.i
 
-.PHONY : rough_101.i
+.PHONY : arrays/arrays.i
 
 # target to preprocess a source file
-rough_101.cpp.i:
-	$(MAKE) -f CMakeFiles/rough.dir/build.make CMakeFiles/rough.dir/rough_101.cpp.i
-.PHONY : rough_101.cpp.i
+arrays/arrays.cpp.i:
+	$(MAKE) -f CMakeFiles/rough.dir/build.make CMakeFiles/rough.dir/arrays/arrays.cpp.i
+.PHONY : arrays/arrays.cpp.i
 
-rough_101.s: rough_101.cpp.s
+arrays/arrays.s: arrays/arrays.cpp.s
 
-.PHONY : rough_101.s
+.PHONY : arrays/arrays.s
 
 # target to generate assembly for a file
-rough_101.cpp.s:
-	$(MAKE) -f CMakeFiles/rough.dir/build.make CMakeFiles/rough.dir/rough_101.cpp.s
-.PHONY : rough_101.cpp.s
+arrays/arrays.cpp.s:
+	$(MAKE) -f CMakeFiles/rough.dir/build.make CMakeFiles/rough.dir/arrays/arrays.cpp.s
+.PHONY : arrays/arrays.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... rough"
 	@echo "... edit_cache"
-	@echo "... rough_101.o"
-	@echo "... rough_101.i"
-	@echo "... rough_101.s"
+	@echo "... arrays/arrays.o"
+	@echo "... arrays/arrays.i"
+	@echo "... arrays/arrays.s"
 .PHONY : help
 
 

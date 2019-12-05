@@ -3,5 +3,8 @@ project(rough)
 
 set(CMAKE_CXX_STANDARD 14)
 
+#add_executable(rough
+#        rough_101.cpp)
+
 add_executable(rough
-        rough_101.cpp)
+        arrays/arrays.cpp)
